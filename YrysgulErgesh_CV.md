@@ -1,6 +1,6 @@
 # Yrysgul Ergesh
 
-![Profile photo](YOUR_IMAGE_URL_HERE)
+![Profile photo](Yrysgul.jpeg)
 
 **Developer**
 
@@ -75,6 +75,7 @@ To leverage my 3 years of experience in software engineering and project managem
 
 ## Contacts
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/yrysgulergesh/)
-[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/yrysgulergesh)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/yrysgulergesh/)  
+[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/yrysgulergesh)  
 [![SoloLearn](https://e7.pngegg.com/pngimages/830/526/png-clipart-sololearn-java-computer-programming-android-android-text-logo.png)](https://www.sololearn.com/en/profile/23936588)
+
