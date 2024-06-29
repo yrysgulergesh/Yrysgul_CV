@@ -75,7 +75,8 @@ To leverage my 3 years of experience in software engineering and project managem
 
 ## Contacts
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/yrysgulergesh/)  
-[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/yrysgulergesh)  
-[![SoloLearn](https://e7.pngegg.com/pngimages/830/526/png-clipart-sololearn-java-computer-programming-android-android-text-logo.png)](https://www.sololearn.com/en/profile/23936588)
+- **Email**: info.yrysgul@gmail.com
+- **Location**: Bishkek, Kyrgyzstan
+- **LinkedIn**: [linkedin.com/in/yrysgulergesh](https://www.linkedin.com/in/yrysgulergesh/)
+- **GitHub**: [github.com/yrysgulergesh](https://github.com/yrysgulergesh)
 
