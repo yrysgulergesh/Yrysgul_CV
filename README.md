@@ -1,8 +1,8 @@
 # Yrysgul Ergesh
 
-![Profile photo](Yrysgul.jpeg)
+<img src="Yrysgul.jpeg" alt="Profile photo" width="150" height="150" style="border-radius:50%;display:block;margin:0 auto;">
 
-**Developer**
+**Software Engineer**
 
 ## Summary
 To leverage my 3 years of experience in software engineering and project management to contribute to innovative projects, drive technological advancements, and continuously enhance my professional skills.
@@ -16,7 +16,7 @@ To leverage my 3 years of experience in software engineering and project managem
 - Utilized Docker for application containerization.
 - Ensured compatibility between backend and frontend components.
 - Participated in Agile development and Scrum meetings.
-- **Project for EvoComService:**
+- **Project for [EvoComService](https://evocomservice.com)**
   - Contributed to the development and maintenance of web functionalities for EvoComService.
   - Integrated backend services and optimized performance.
   - Implemented security measures to protect data.
@@ -35,7 +35,7 @@ To leverage my 3 years of experience in software engineering and project managem
 - Developed technical specifications and documentation.
 - Assigned tasks and utilized Jira for project management.
 - Analyzed requirements and improved workflows.
-- Managed commercial projects, including LiorDev, iMotors, and Juk.
+- Managed commercial projects, including [LiorDev](https://liordev.com), [iMotors](https://imotors.kg), and [Juk](https://juk.kg).
 
 ### Technical Specialist, N-Group Construction Company (April 2024 - May 2024)
 - Provided technical support and maintenance of computer equipment and networks.
@@ -73,10 +73,15 @@ To leverage my 3 years of experience in software engineering and project managem
 | **CI/CD**                | GitLab CI/CD pipelines                                                |
 | **Operating Systems**    | macOS, Linux, Windows                                                 |
 
+## Certificates
+
+- <a href="https://www.sololearn.com/certificates/CC-BBJUYOID" target="_blank" class="text-blue-500 hover:underline">Introduction to SQL Certificate</a>
+- <a href="https://www.sololearn.com/certificates/CC-6ZX1L6JZ" target="_blank" class="text-blue-500 hover:underline">SQL Intermediate Certificate from SoloLearn</a>
+
 ## Contacts
 
-- **Email**: info.yrysgul@gmail.com
+- **Email**: <a href="mailto:info.yrysgul@gmail.com" class="text-blue-500 hover:underline">info.yrysgul@gmail.com</a>
 - **Location**: Bishkek, Kyrgyzstan
-- **LinkedIn**: [linkedin.com/in/yrysgulergesh](https://www.linkedin.com/in/yrysgulergesh/)
-- **GitHub**: [github.com/yrysgulergesh](https://github.com/yrysgulergesh)
+- **LinkedIn**: <a href="https://www.linkedin.com/in/yrysgulergesh/" target="_blank" class="text-blue-500 hover:underline">linkedin.com/in/yrysgulergesh</a>
+- **GitHub**: <a href="https://github.com/yrysgulergesh" target="_blank" class="text-blue-500 hover:underline">github.com/yrysgulergesh</a>
 
