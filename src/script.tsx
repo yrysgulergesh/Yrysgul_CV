@@ -20,3 +20,6 @@ document.addEventListener('DOMContentLoaded', () => {
         skillsWrapper.addEventListener('animationiteration', animateSkills);
     }
 });
+
+export {};
+
