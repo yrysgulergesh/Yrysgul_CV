@@ -11,10 +11,10 @@ jobs:
 
     steps:
     - name: Checkout the repository
-      uses: ./.github/actions/checkout
+      uses: ./.github/actions/checkout/action.yaml
 
     - name: Set up Node.js
-      uses: ./.github/actions/setup-node
+      uses: ./.github/actions/setup-node/action.yaml
       with:
         node-version: '16'
 
@@ -25,7 +25,7 @@ jobs:
       run: npm run build
 
     - name: Deploy to GitHub Pages
-      uses: ./.github/actions/gh-pages
+      uses: ./.github/actions/gh-pages/action.yaml
       with:
         publish_dir: ./dist
         user_name: ${{ secrets.GITHUB_ACTOR }}
