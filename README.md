@@ -2,12 +2,12 @@
 
 <img src="Yrysgul.jpeg" alt="Profile photo" width="150" height="150" style="border-radius:50%;display:block;margin:0 auto;">
 
-**Software Engineer**
+**<span style="color:#00A86B;">Software Engineer</span>**
 
-## Summary
+## <span style="color:#00A86B;">Summary</span>
 To leverage my 3 years of experience in software engineering and project management to contribute to innovative projects, drive technological advancements, and continuously enhance my professional skills.
 
-## Experience
+## <span style="color:#00A86B;">Experience</span>
 
 ### Intern Backend Developer / Team Lead Backend Developer, CodifyLab, Bishkek (April 2022 - November 2022)
 - Started as an intern and progressed to Team Lead, overseeing a team of backend developers.
@@ -48,7 +48,7 @@ To leverage my 3 years of experience in software engineering and project managem
 - Supported a team of 123-130 employees, including the call center and telemarketing.
 - Administered corporate email for 130 employees, creating accounts and inviting new staff.
 
-## Education
+## <span style="color:#00A86B;">Education</span>
 
 ### Bachelor’s Degree in Jurisprudence/Civil Law
 - Academy of ATiSO, Graduated in 2019
@@ -57,7 +57,7 @@ To leverage my 3 years of experience in software engineering and project managem
 ### Master’s Degree in Software Engineering/Project Management
 - KRSU University, September 2022 - 2024
 
-## Skills
+## <span style="color:#00A86B;">Skills</span>
 
 | Category                 | Skills                                                                 |
 |--------------------------|-----------------------------------------------------------------------|
@@ -73,15 +73,14 @@ To leverage my 3 years of experience in software engineering and project managem
 | **CI/CD**                | GitLab CI/CD pipelines                                                |
 | **Operating Systems**    | macOS, Linux, Windows                                                 |
 
-## Certificates
+## <span style="color:#00A86B;">Certificates</span>
 
 - <a href="https://www.sololearn.com/certificates/CC-BBJUYOID" target="_blank" class="text-blue-500 hover:underline">Introduction to SQL Certificate</a>
 - <a href="https://www.sololearn.com/certificates/CC-6ZX1L6JZ" target="_blank" class="text-blue-500 hover:underline">SQL Intermediate Certificate from SoloLearn</a>
 
-## Contacts
+## <span style="color:#00A86B;">Contacts</span>
 
 - **Email**: <a href="mailto:info.yrysgul@gmail.com" class="text-blue-500 hover:underline">info.yrysgul@gmail.com</a>
 - **Location**: Bishkek, Kyrgyzstan
 - **LinkedIn**: <a href="https://www.linkedin.com/in/yrysgulergesh/" target="_blank" class="text-blue-500 hover:underline">linkedin.com/in/yrysgulergesh</a>
 - **GitHub**: <a href="https://github.com/yrysgulergesh" target="_blank" class="text-blue-500 hover:underline">github.com/yrysgulergesh</a>
-
