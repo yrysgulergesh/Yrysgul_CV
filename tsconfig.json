@@ -1,12 +1,10 @@
-{
-  "compilerOptions": {
-    "outDir": "./dist/",
-    "sourceMap": true,
-    "strict": true,
-    "module": "commonjs",
-    "target": "es5",
-    "jsx": "react",
-    "lib": ["es2015", "dom"]
+module.exports = {
+  content: [
+    './src/**/*.{html,js,ts,tsx}',
+    './index.html'
+  ],
+  theme: {
+    extend: {},
   },
-  "include": ["src"]
+  plugins: [],
 }
