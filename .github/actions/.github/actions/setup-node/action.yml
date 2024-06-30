@@ -1,0 +1,6 @@
+name: 'setup-node'
+description: 'Setup a Node.js environment'
+
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
